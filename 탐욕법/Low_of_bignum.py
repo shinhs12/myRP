@@ -16,5 +16,3 @@ def sol():
         answer+=second
         count+=1
     print(answer)
-
-    
